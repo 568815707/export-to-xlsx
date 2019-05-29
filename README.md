@@ -1,15 +1,16 @@
 ![xlsx](https://img.shields.io/badge/-xlsx-blue.svg) ![ES6](https://img.shields.io/badge/-ES6-green.svg)
-##Export To Csv
+
+## Export To Csv
 A method to export CSV
 
 
-##Install
+## Install
 
 ```
     npm install export-to-csv
 ```
 
-##Usage
+## Usage
 
 ```javascript
 
@@ -32,16 +33,16 @@ A method to export CSV
   
 ```
 
-##Author
+## Author
 * blog: [osenki](www.osenki.com)
 
     If you have any problem in using it, please feel free to give me feedback. You can communicate with me through the following contact information
 
 
-##License
+## License
 ISC
 
-####Keywords
+#### Keywords
 
 xlsx csv
 
