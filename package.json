@@ -1,0 +1,25 @@
+{
+  "name": "export-to-csv",
+  "version": "1.0.0",
+  "description": "export to csv in front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/568815707/export-to-csv.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "osenki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/568815707/export-to-csv/issues"
+  },
+  "homepage": "https://github.com/568815707/export-to-csv#readme",
+  "dependencies": {
+    "xlsx": "^0.14.3"
+  }
+}
