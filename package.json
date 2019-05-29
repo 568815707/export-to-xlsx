@@ -1,5 +1,5 @@
 {
-  "name": "export-to-csv",
+  "name": "export-to-xlsx",
   "version": "1.0.0",
   "description": "export to csv in front",
   "main": "index.js",
