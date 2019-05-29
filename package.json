@@ -1,14 +1,14 @@
 {
   "name": "export-to-xlsx",
-  "version": "1.0.0",
-  "description": "export to csv in front",
+  "version": "1.0.1",
+  "description": "The front end exports the XLSX method",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/568815707/export-to-csv.git"
+    "url": "git+https://github.com/568815707/export-to-xlsx.git"
   },
   "keywords": [
     "csv"
@@ -16,9 +16,9 @@
   "author": "osenki",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/568815707/export-to-csv/issues"
+    "url": "https://github.com/568815707/export-to-xlsx/issues"
   },
-  "homepage": "https://github.com/568815707/export-to-csv#readme",
+  "homepage": "https://github.com/568815707/export-to-xlsx#readme",
   "dependencies": {
     "xlsx": "^0.14.3"
   }

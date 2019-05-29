@@ -1,20 +1,20 @@
 ![xlsx](https://img.shields.io/badge/-xlsx-blue.svg) ![ES6](https://img.shields.io/badge/-ES6-green.svg)
 
-## Export To Csv
-A method to export CSV
+## Export To Xlsx
+The front end exports the XLSX method
 
 
 ## Install
 
 ```
-    npm install export-to-csv
+    npm install export-to-xlsx
 ```
 
 ## Usage
 
 ```javascript
 
-  import ExportToCsv from 'export-to-csv'
+  import ExportToXlsx from 'export-to-xlsx'
   ...
   
   function exportData (data) {
@@ -28,7 +28,7 @@ A method to export CSV
           },
           ...
         ]
-    exportToCsv(headers, data, fileName)
+    ExportToXlsx(headers, data, fileName)
   }
   
 ```
